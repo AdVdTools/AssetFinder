@@ -6,7 +6,7 @@ The Asset Finder Window is available at Window/Asset Finder.
 Asset Finder allows you to find materials, textures and meshes that are being used by renderers in the scene. Note that this tool does not support references from custom components.
 You may filter your search in different ways and locate objects using a certain asset.
 
-[AssetFinder Window]()
+![AssetFinder Window](https://raw.githubusercontent.com/AdVdTools/AssetFinder/master/asset_finder.png)
 
 ## Upper toolbar:
 - Asset Type selctor (1-5 keys): Search materials, textures, meshes or audio and animation clips.
